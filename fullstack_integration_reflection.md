@@ -22,7 +22,13 @@ While both the native `fetch` API and `axios` can be used to make HTTP requests,
 
 ---
 
-This analysis provides an overview of key challenges and solutions when integrating a full-stack MERN application. Properly handling CORS, environment management, and data fetching strategies ensures smoother development and more secure, scalable deployments.
+## 📚 Sources
+
+- [Avoiding Cross-Origin Issues While Hosting Full Projects – dev.to](https://dev.to/arunangshu_das/avoiding-cross-origin-issues-while-hosting-full-projects-1gi8)  
+- [The Ultimate Guide to Setting Up Your Dev Environment for CORS and Live APIs – Wisp Blog](https://www.wisp.blog/blog/the-ultimate-guide-to-setting-up-your-dev-environment-for-cors-and-live-apis)  
+- [React Proxy | Easiest Fix to CORS Errors – YouTube](https://www.youtube.com/watch?v=N4yUiQiTvwU)
+
+---
 
 ## 🧑🏿‍💻 Author
 
