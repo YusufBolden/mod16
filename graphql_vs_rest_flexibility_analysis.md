@@ -31,3 +31,7 @@ However, the flexibility of GraphQL makes it ideal for use cases like **mobile a
 - [GraphQL vs REST: A Comprehensive Comparison](https://hygraph.com/blog/graphql-vs-rest-apis)
 - [Is GraphQL Better Than REST? A Comparison](https://tailcall.run/graphql/graphql-vs-rest-api-comparison/)
 - [GraphQL vs REST: API Showdown](https://medium.com/@programordie/graphql-vs-rest-api-showdown-fcf11d9c4fe6)
+
+## 🧑🏿‍💻 Author
+
+Created by [Yusuf Bolden](github.com/YusufBolden).
